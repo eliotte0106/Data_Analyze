@@ -1,3 +1,3 @@
 # Data Analyze and Image Process
 
-references by 동빈나(ndb796)
+references by ndb796
